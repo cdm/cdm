@@ -1,4 +1,4 @@
-![Hello, Bonjour, Guten tag](https://iili.io/Jm1cQDl.png)
+![Hello, Bonjour, Guten tag](https://iili.io/Jm1MTox.png)
 
 <!--
 **cdm/cdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
